@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="TicTacToe" title="TicTacToe" src="https://user-images.githubusercontent.com/33061906/81969044-b71dda80-95f3-11ea-8dd2-8b9d1d33c523.png" width="250px" />
+    <img alt="TicTacToe" title="TicTacToe" src="https://user-images.githubusercontent.com/33061906/81969885-031d4f00-95f5-11ea-9075-36eea18ad2d8.png" width="250px" />
 </h1>
 
 <h4 align="center">
